@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <a href="https://space.bilibili.com/3546701077940361"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=chuxuezhe766&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
