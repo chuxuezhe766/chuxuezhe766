@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Kongcheng祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Kongchen祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://space.bilibili.com/3546701077940361"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
